@@ -66,3 +66,13 @@ Next, we edit "common.py" for utilities
 
 Create "Experiment.ipynb" and create the full implementation of your model first in here and understand it
 
+### STEP 8 - Implementing the workflow
+
+Implementing the workflow mentioned above and updating everything accordingly now
+Also created the data_ingestion notebook
+
+1. config.yaml contains the basic configuration commands and stuff(so far my understanding of it)
+2. schema.yaml contains the data validation commands
+3. params.yaml contains the model parameters
+4. Copy and paste the entity you created in the notebook
+5. Copy and paste the configuration you created in the notebook
