@@ -19,7 +19,7 @@ Creating an end to end ML-based project
 
 ### STEP 1 - Build the repository
 
-we created a repository for our project and added a "readme" file, ".gitignore" file for our python and finally a license of your choice(i chose MIT)
+we created a repository for our project and added a "readme.md" file, ".gitignore" file for our python and finally a license of your choice(i chose MIT)
 After creating the repository now, clone it with:-
 
 ```bash
@@ -54,9 +54,15 @@ pip install -r requirements.txt
 
 ### STEP 6 - Logger,Exception Handling, and Utilities
 
-In src/mlProject create logger in __init__.py and run the following command:-
+In src/mlProject create logger in "__init__.py" and run the following command:-
 ```bash
 python main.py
 ```
+This creates logs directory and shows "running_logs.log" file with logs
 
-This creates logs directory and shows running_logs.log file with logs
+Next, we edit "common.py" for utilities
+
+### STEP 7 - Experiment
+
+Create "Experiment.ipynb" and create the full implementation of your model first in here and understand it
+
