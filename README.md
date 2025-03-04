@@ -82,3 +82,7 @@ Also created the data_ingestion notebook
 9. Finally update the app.py
 
 Do this same with data_validation step, then data_transformation step, then model_training step and finally with model_evaluation step
+
+### STEP 9 - Prediction with pipeline
+
+Create "prediction.py" file and write the code accordingly
