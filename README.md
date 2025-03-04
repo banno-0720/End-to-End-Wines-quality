@@ -81,4 +81,4 @@ Also created the data_ingestion notebook
 8. Update the main.py
 9. Finally update the app.py
 
-Do this same with data_validation step, then data_transformation step, then model_training step
+Do this same with data_validation step, then data_transformation step, then model_training step and finally with model_evaluation step
