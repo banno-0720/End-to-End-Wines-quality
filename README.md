@@ -76,3 +76,9 @@ Also created the data_ingestion notebook
 3. params.yaml contains the model parameters
 4. Copy and paste the entity you created in the notebook
 5. Copy and paste the configuration you created in the notebook
+6. Add a file in components directory and add the code accordingly
+7. Add a file in pipeline directory and write the code accordingly
+8. Update the main.py
+9. Finally update the app.py
+
+Do this same with data_validation step
