@@ -86,3 +86,7 @@ Do this same with data_validation step, then data_transformation step, then mode
 ### STEP 9 - Prediction with pipeline
 
 Create "prediction.py" file and write the code accordingly
+
+### STEP 10 - Creating the application
+
+Create the web application or software application whichever you want and take the inputs on it and then finally predict the output with the help of "prediction.py" file created above in the "app.py" file
