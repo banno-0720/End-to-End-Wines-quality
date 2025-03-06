@@ -90,3 +90,8 @@ Create "prediction.py" file and write the code accordingly
 ### STEP 10 - Creating the application
 
 Create the web application or software application whichever you want and take the inputs on it and then finally predict the output with the help of "prediction.py" file created above in the "app.py" file
+
+### STEP 11 - Dockerization
+
+Create docker file with name "Dockerfile". 
+The name should be same otherwise it wont work, so make sure it is.
