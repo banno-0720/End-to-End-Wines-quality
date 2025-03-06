@@ -57,4 +57,4 @@ def index():
 
 
 if __name__ == "__main__":
-	app.run(host="0.0.0.0", port = 8080, debug=True)
+	app.run(host="0.0.0.0", port = 8080, debug=True) # run the app by typing "localhost:8080" on your web browser
